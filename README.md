@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mateus Morais.
-- A full stack web dev that can work with NodeJS and Laravel, with VueJS and REST Api.
+- Looking for my first opportunity to work as web developer.
 - You can contact me at mateusoliiveira@hotmail.com.br or feel free to visit my LinkedIn https://www.linkedin.com/in/mateusoliiveira/
 
 <!---
