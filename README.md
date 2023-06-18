@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mateus Morais.
-- Looking for my first opportunity to work as web developer.
 - You can contact me at mateusoliiveira@hotmail.com.br or feel free to visit my LinkedIn https://www.linkedin.com/in/mateusoliiveira/
 
 <!---
